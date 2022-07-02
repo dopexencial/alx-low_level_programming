@@ -20,10 +20,6 @@ for (num1 = 0; num1 <= 98; num1++)
 		{
 			continue;
 		}
-			putchar(',');
-			putchar(' ');
-	}
-}
 	putchar('\n');
 	return (0);
 }
